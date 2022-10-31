@@ -1,2 +1,2 @@
-# MoonGuard-AntiCheat
-An anticheat made for the Triforge modpack.
+# Offhand Place
+A mod that allows you to build using your offhand.
